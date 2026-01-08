@@ -16,7 +16,7 @@ Text includes my own interpretation of the topics that needed further detail for
      - L1, L2 and L1 + L2 Regularization is covered and explained
    - Locally Weighted Regression
 2. :twisted_rightwards_arrows: COMING SOON..... LOGISTIC REGRESSION
-3. :brain: COMING NEXT..... KERNELS
+3. :wrench: COMING NEXT..... KERNELS
 
 # References and Bibliography:
 ## Books
