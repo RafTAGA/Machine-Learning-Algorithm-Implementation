@@ -18,7 +18,7 @@ Text includes my own interpretation of the topics that needed further detail for
 2. :twisted_rightwards_arrows: COMING SOON..... LOGISTIC REGRESSION
 3. :brain: COMING NEXT..... KERNELS
 
-# References and Bibliography:'
+# References and Bibliography:
 ## Books
 
 - Geron, A. (2019). [Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
