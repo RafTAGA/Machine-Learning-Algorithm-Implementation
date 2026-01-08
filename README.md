@@ -1,4 +1,4 @@
-# 🤖 🧠 Machine-Learning-Algorithm-Implementation Library 📖📚
+# 🤖 🧠 Machine-Learning-Algorithm-Implementation Library 📚
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
