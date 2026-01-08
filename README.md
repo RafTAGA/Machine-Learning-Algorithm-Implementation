@@ -23,9 +23,9 @@ Text includes my own interpretation of the topics that needed further detail for
 
 - Geron, A. (2019). [Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
-Zhang, A., Lipton, Z. C., Li, M., & Smola, A. J. (2021). [Dive into deep learning](https://d2l.ai/)
+- Zhang, A., Lipton, Z. C., Li, M., & Smola, A. J. (2021). [Dive into deep learning](https://d2l.ai/)
 
-Murphy, K. P. (2022). [Probabilistic machine learning: An introduction](https://probml.github.io/pml-book/book1.html)
+- Murphy, K. P. (2022). [Probabilistic machine learning: An introduction](https://probml.github.io/pml-book/book1.html)
 
-Murphy, K. P. (2023). [Probabilistic machine learning: advanced topics](https://probml.github.io/pml-book/book2.html)
+- Murphy, K. P. (2023). [Probabilistic machine learning: advanced topics](https://probml.github.io/pml-book/book2.html)
 
