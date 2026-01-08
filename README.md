@@ -1,10 +1,10 @@
-# Machine-Learning-Algorithm-Implementation
-## Getting Started
-All needed data will be available to download here, as a Kaggle Dataset, or HuggingFace Dataset. All notebooks were made in Google Colab with preloaded libraries and any additional installation needed will be exhecuted inside the notebook.
-
+# 🤖 🧠 Machine-Learning-Algorithm-Implementation Library 📖📚
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+
+## Getting Started
+All needed data will be available to download here, as a Kaggle Dataset, or HuggingFace Dataset. All notebooks were made in Google Colab with preloaded libraries and any additional installation needed will be exhecuted inside the notebook.
 
 ## Overview
 Example implementation of some ML algorithms. These notebooks aim to help the reader understand the math behind past and modern ML models using personal notes I have taken throughout my academic graduate education. The goal of this repository is to serve as my portfolio of starting points for developing more complex models and answer technical questions (e.g., how ML models work, hyperparameters are chosen) using generic language for a better understanding of the technicalities of Machine Learning's Linear Algebra. More models are being added and some will include the latest models or modified approaches to solve common problems (e.g. YOLO enhancements, K-CNNs, etc). 
